@@ -6,7 +6,7 @@ Set a video as your wallpaper
 2. Install Eneko
 
 ## Compiling
-Depends on LibGcUniversal, just make package (make clean package)
+Depends on LibGcUniversal, then just make package (make clean package)
 
 ## Note
 If you take code from this repository please link it, or my [twitter](https://twitter.com/Litteeen) to your project
